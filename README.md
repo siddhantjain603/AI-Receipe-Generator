@@ -37,8 +37,8 @@ The AI Recipe Generator is a Streamlit-based web application that generates deta
 - The application will display an image of the dish and a detailed recipe including:
   - Title: A fun title for the recipe.
   - Table of Contents: Links to different sections.
--- Introduction: A brief introduction to the dish.
--- Country of Origin: Information about where the dish comes from.
--- Ingredients: A list of ingredients.
--- Cooking Steps: Step-by-step instructions for preparing the dish.
--- FAQ: Answers to common questions about the dish.
+  - Introduction: A brief introduction to the dish.
+  - Country of Origin: Information about where the dish comes from.
+  - Ingredients: A list of ingredients.
+  - Cooking Steps: Step-by-step instructions for preparing the dish.
+  - FAQ: Answers to common questions about the dish.
