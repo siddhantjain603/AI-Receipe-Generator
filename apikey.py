@@ -1,4 +1,4 @@
-apikey = "sk-tjTrcFcG0lCjv4PRRwVKT3BlbkFJeFE6X31ERwkxHYOoSk" #use your own key this key no longer in use.
+apikey = "apikey" #use your own key this key no longer in use.
 
 def main():
     pass
